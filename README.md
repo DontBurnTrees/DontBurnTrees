@@ -6,7 +6,9 @@
 
 ## Whoami:
 
-:°
+I'm a french student writing some writeups on my free time :°
+
+[DontBurnTrees Writeups](https://dontburntrees.gitbook.io/dontburntrees)
 
 ---
 
