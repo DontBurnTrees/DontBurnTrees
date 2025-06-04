@@ -1,11 +1,29 @@
 
-
+# DontBurnTrees
 ![Profile views](https://komarev.com/ghpvc/?username=DontBurnTrees&color=d90429)
 
 ---
 
-### 🤝 Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/dontburntrees)
+## Whoami:
+
+:°
+
+---
+
+## Contact:
+
+You can find me here :
+
+- 🌐 [Discord](https://discordapp.com/users/dontburntrees)  
+
+---
+
+## Here is a list of (all) the platforms I have practiced on :
+
+### 🏴‍☠️ CTFs 
+
+- [**TryHackMe**](https://tryhackme.com/p/DontBurnTrees) 
+
 
 ---
 <!---
