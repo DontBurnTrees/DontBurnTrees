@@ -14,13 +14,13 @@
 
 You can find me here :
 
-- 🌐 [Discord](https://discordapp.com/users/dontburntrees)  
+-  [Discord](https://discordapp.com/users/dontburntrees)  
 
 ---
 
 ## Here is a list of (all) the platforms I have practiced on :
 
-### 🏴‍☠️ CTFs 
+### 🚩 CTFs 
 
 - [**TryHackMe**](https://tryhackme.com/p/DontBurnTrees) 
 
