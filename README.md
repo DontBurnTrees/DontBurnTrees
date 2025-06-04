@@ -1,6 +1,6 @@
 
 
-![Profile views](https://komarev.com/ghpvc/?username=DontBurnTrees&color=ff69b4)
+![Profile views](https://komarev.com/ghpvc/?username=DontBurnTrees&color=d90429)
 
 ---
 
