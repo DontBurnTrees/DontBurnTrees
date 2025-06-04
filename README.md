@@ -12,7 +12,6 @@
 
 ## Contact:
 
-You can find me here :
 
 -  [Discord](https://discordapp.com/users/dontburntrees)  
 
@@ -20,7 +19,6 @@ You can find me here :
 
 ## Here is a list of (all) the platforms I have practiced on :
 
-### 🚩 CTFs 
 
 - [**TryHackMe**](https://tryhackme.com/p/DontBurnTrees) 
 
