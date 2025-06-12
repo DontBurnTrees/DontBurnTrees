@@ -8,6 +8,8 @@
 
 I'm a French student aspiring to reach a high level of technical skill in cybersecurity.
 
+I'm just getting started, but I try to write writeups as I go.
+
 [DontBurnTrees Writeups](https://dontburntrees.gitbook.io/dontburntrees)
 
 ---
