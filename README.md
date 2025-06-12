@@ -6,7 +6,7 @@
 
 ## Whoami:
 
-I'm a french student writing some writeups on my free time :°
+I'm a French student aspiring to reach a high level of technical skill in cybersecurity.
 
 [DontBurnTrees Writeups](https://dontburntrees.gitbook.io/dontburntrees)
 
