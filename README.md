@@ -8,8 +8,10 @@
 
 I'm a French student aspiring to reach a high level of technical skill in cybersecurity.
 
-I'm just getting started, but I try to write writeups as I go.
+Currently working on a small project, an open-source collaborative documentation aiming to collect and share valuable resources for infosec enthusiasts.
+[DocSec Discord](https://discord.gg/KrPCJV2Nc3) [DocSec GitHub](https://github.com/DontBurnTrees/DocSec)
 
+I'm just getting started, but I try to write writeups as I go.
 [DontBurnTrees Writeups](https://dontburntrees.gitbook.io/dontburntrees)
 
 ---
