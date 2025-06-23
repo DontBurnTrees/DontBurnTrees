@@ -27,6 +27,7 @@ I'm just getting started, but I try to write writeups as I go.
 
 
 - [**TryHackMe**](https://tryhackme.com/p/DontBurnTrees) 
+- [**Root Me**](https://www.root-me.org/DontBurnTrees)
 
 
 ---
