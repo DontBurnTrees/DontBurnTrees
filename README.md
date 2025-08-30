@@ -25,7 +25,6 @@ I'm just getting started, but I try to write writeups as I go.
 
 ## Here is a list of (all) the platforms I have practiced on :
 
-
 - [**TryHackMe**](https://tryhackme.com/p/DontBurnTrees) 
 - [**Root Me**](https://www.root-me.org/DontBurnTrees)
 
