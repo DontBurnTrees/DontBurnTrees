@@ -1,9 +1,3 @@
-
-# DontBurnTrees
-![Profile views](https://komarev.com/ghpvc/?username=DontBurnTrees&color=d90429)
-
----
-
 ## Whoami:
 
 I'm a French student aspiring to reach a high level of technical skill in cybersecurity.
